@@ -1,5 +1,5 @@
 ## Project Links
-- W&B Project: https://wandb.ai/jafowler421-western-governors-university/nyc_airbnb
+- W&B Project: https://wandb.ai/jafowler421-western-governors-university/nyc_airbnb/reports/nyc_airbnb-report--VmlldzoxNjExNDQ5OA?accessToken=85eg9frd1yargl2j00v41xv1yu53680sg1oxwf9puvc7w3wnm4ve05xengdrvvk7
 - GitHub Repository: https://github.com/Jafowler421/Project-Build-an-ML-Pipeline-Starter
 
 
